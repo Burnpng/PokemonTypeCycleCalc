@@ -8,4 +8,4 @@ A C# Windows Forms application that generates possible symmetrical Pokémon type
 3. Build and run the project.
 
 ## Download the Latest Build
-Download the latest build from the [Releases]((https://github.com/Burnpng/PokemonTypeCycleCalc/releases)) page.
+Download the latest build from the [Releases](https://github.com/Burnpng/PokemonTypeCycleCalc/releases) page.
