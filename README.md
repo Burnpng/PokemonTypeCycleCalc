@@ -6,3 +6,6 @@ A C# Windows Forms application that generates possible symmetrical Pokémon type
 1. Clone this repository.
 2. Open the solution in Visual Studio.
 3. Build and run the project.
+
+## Download the Latest Build
+Download the latest build from the [Releases](https://github.com/YourUsername/PokemonTypeCycleCalc/releases) page.
